@@ -1,0 +1,4 @@
+model: glm-4-9b-chat
+api_url: https://cloud.infini-ai.com/maas/glm-4-9b-chat/nvidia/chat/completions
+api_key: sk-****
+base_url: https://cloud.infini-ai.com/maas/glm-4-9b-chat/nvidia
